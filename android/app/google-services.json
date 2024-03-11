@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96746548114",
+    "project_id": "whiteboard-22702",
+    "storage_bucket": "whiteboard-22702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96746548114:android:4dc841fa38aaf7b9b52f4b",
+        "android_client_info": {
+          "package_name": "com.example.whiteboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHyPhh99BRQEgRl9o0xeXlJvFebpEeySQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
